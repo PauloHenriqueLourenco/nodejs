@@ -1,5 +1,5 @@
 const Prova = require('./prova')
 
-Prova.methods(['get','post'])
+Prova.methods(['get'])
 
 module.exports = Prova
